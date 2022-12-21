@@ -99,7 +99,7 @@ or by running the compilation script. (this runs with the valgrind memcheck tool
 <table>
 <td align="center"><a href="https://github.com/whalay"><img src="https://avatars.githubusercontent.com/u/108087255?v=4" width="80px;" alt=""/><br /><sub><b>Whalay</b></sub></a></td>
 
-<td align="center"><a href="https://github.com/Jes"><img src="https://avatars.githubusercontent.com/u/113533393?s=96&v=4" width="80px;" alt=""/><br /><sub><b>Cynthia</b></sub></a></td>
+<td align="center"><a href="https://github.com/interferons"><img src="https://avatars.githubusercontent.com/u/113533393?s=96&v=4" width="80px;" alt=""/><br /><sub><b>Cynthia</b></sub></a></td>
 </tr>
 </table>
 
