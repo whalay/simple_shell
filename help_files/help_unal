@@ -1,5 +1,4 @@
-emove each NAME from the list of defined aliases.
-
-
+unalias: unalias
+    Remove each NAME from the list of defined aliases.
 
     Return success unless a NAME is not an existing alias.
